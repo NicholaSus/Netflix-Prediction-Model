@@ -3,6 +3,9 @@
 ## Project Overview
 This project analyzes Netflix content data and builds machine learning models to predict content types. It includes exploratory data analysis, visualization, and the implementation of various classification algorithms.
 
+## Link to Dataset
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 ## Table of Contents
 1. [Data Preprocessing](#data-preprocessing)
 2. [Exploratory Data Analysis](#exploratory-data-analysis)
